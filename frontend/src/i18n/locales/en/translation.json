@@ -1,0 +1,108 @@
+{
+  "app": {
+    "title": "HamroVote"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "vote": "Vote",
+    "connectWallet": "Connect Wallet",
+    "walletConnected": "Connected",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "hero": {
+    "badge": "Nepal's First Coercion‑Resistant Voting Platform",
+    "title": "Your Vote,",
+    "titleHighlight": " Your Voice",
+    "subtitle": "Anywhere in the World",
+    "description": "Secure, transparent voting for 7.5+ million Non‑Resident Nepalis. Powered by blockchain, protected by biometrics.",
+    "cta": "Get Started",
+    "ctaDashboard": "Go to Dashboard",
+    "ctaWallet": "Connect Wallet",
+    "statsNRN": "NRNs Worldwide",
+    "statsCountries": "Countries",
+    "statsTransparent": "Transparent",
+    "statsAvailable": "Available",
+    "secureTag": "Secure • Transparent • Decentralized"
+  },
+  "features": {
+    "title": "Features",
+    "heading": "Why Choose",
+    "subheading": "Built with cutting-edge technology to ensure your vote is secure, private, and counted",
+    "biometric": "Biometric Verification",
+    "biometricDesc": "Face verification ensures one person, one vote — eliminating fraud and impersonation.",
+    "coercion": "Coercion Protection",
+    "coercionDesc": "Live camera detection prevents forced voting. Your vote stays yours.",
+    "global": "Vote from Anywhere",
+    "globalDesc": "All you need is a browser and internet connection. Vote from any country.",
+    "tracker": "Party Performance Tracker",
+    "trackerDesc": "See what your leaders are actually doing. Informed votes lead to better governance.",
+    "nrn": "NRN Empowerment",
+    "nrnDesc": "Give 7.5+ million Nepalis a voice in Nepal's future.",
+    "blockchain": "Blockchain Transparency",
+    "blockchainDesc": "Votes are recorded immutably. Transparent, auditable elections you can trust."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "heading": "Your Journey to",
+    "highlight": "Voting",
+    "subheading": "Four simple steps to cast your vote securely from anywhere",
+    "step1": "Register",
+    "step1Desc": "Create your account with NRN ID and email verification",
+    "step2": "Verify Identity",
+    "step2Desc": "Complete face verification to confirm your identity",
+    "step3": "Cast Vote",
+    "step3Desc": "Vote securely with live camera protection against coercion",
+    "step4": "Track Results",
+    "step4Desc": "View transparent, real-time results on the blockchain"
+  },
+  "cta": {
+    "title": "Ready to Make Your Voice Heard?",
+    "subtitle": "Join thousands of NRNs voting securely from anywhere in the world.",
+    "button": "Get Started Now"
+  },
+  "footer": {
+    "description": "Secure blockchain voting for Non-Resident Nepalis. Built with ❤️ for Nepal.",
+    "quickLinks": "Quick Links",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "connect": "Connect",
+    "rights": "All rights reserved."
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}!",
+    "subtitle": "Here's your voting dashboard overview",
+    "parties": "Political Parties",
+    "projects": "Projects Tracked",
+    "promises": "Promises Fulfilled",
+    "walletStatus": "Wallet Status",
+    "connectWallet": "Connect Wallet",
+    "partyPerformance": "Party Performance",
+    "projectsTitle": "Major Projects",
+    "noProjects": "No projects tracked yet"
+  },
+  "party": {
+    "billsPassed": "Bills Passed",
+    "budgetUsed": "Budget Used",
+    "projectsDone": "Projects Done",
+    "promisesKept": "Promises Kept",
+    "budgetUtilization": "Budget Utilization"
+  },
+  "project": {
+    "status": {
+      "completed": "Completed",
+      "inProgress": "In Progress",
+      "pending": "Pending",
+      "stalled": "Stalled"
+    }
+  }
+}
